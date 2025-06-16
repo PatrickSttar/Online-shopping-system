@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: Online-shopping-system-app
+  profiles:
+    active: dev
